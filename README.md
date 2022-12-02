@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack web development at a bootcamp in Texas.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=francesperez&theme=blueberry_duo)](https://git.io/streak-stats)
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
 
 
 
