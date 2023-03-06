@@ -7,7 +7,7 @@ My name is Frances Perez. I'm a Software Engineer and graduate from Codeup. Thro
 I have a passion for software, and strive to work in a front-end/UI/UX designer role. These opportunities would allow me to develop software that is more accessible, inviting, and user friendly for clients of all backgrounds. I look forward to all of the projects I will develop and contribute to for users presenlty and in the future. 
 - 🎨 Visit my portfolio website [here!](https://francesperez.tech)
 - 👨‍💻 All of my projects are available [here!](https://github.com/francesperez?tab=repositories)
-- 💬 Ask me about: _React, Cypress.io, JavaScript (ES6), HTML, CSS, Bootstrap, jQuery, Java, MySQL, Springboot, Thymeleaf
+- 💬 Ask me about: JavaScript (ES6), HTML, CSS, Bootstrap, jQuery, Java, MySQL, Springboot, Thymeleaf
 - 📫 How to reach me: **frances.perez141@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p>
