@@ -28,5 +28,5 @@ I have a passion for software, and strive to work in a front-end/UI/UX designer 
 
 
 ## Statistics
-![stats2 frances](https://github-readme-stats.vercel.app/api?username=francesperez&show_icons=true&theme=noctis_minimus)
+![stats frances](https://github-readme-stats.vercel.app/api/top-langs?username=francesperez&show_icons=true&locale=en&layout=compact&theme=noctis_minimus)
 [![GitHub Streak](https://streak-stats.demolab.com?user=francesperez&theme=blueberry_duo)](https://git.io/streak-stats)
