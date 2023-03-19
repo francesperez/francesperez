@@ -4,7 +4,6 @@
 ## About Me
 
 My name is Frances Perez. I'm a Software Engineer and graduate from Codeup. Throughout my time at Codeup I was able to develop many applications with JavaScript (ES6), HTML, CSS, jQuery, Java, MySQL, Springboot, Thymeleaf etc. I'm currently teaching myself UI/UX fundamentals. 
-I have a passion for software, and strive to work in a front-end/UI/UX designer role. These opportunities would allow me to develop software that is more accessible, inviting, and user friendly for clients of all backgrounds. I look forward to all of the projects I will develop and contribute to for users presenlty and in the future. 
 - 🎨 Visit my portfolio website [here!](https://francesperez.tech)
 - 👨‍💻 All of my projects are available [here!](https://github.com/francesperez?tab=repositories)
 - 💬 Ask me about: JavaScript (ES6), HTML, CSS, Bootstrap, jQuery, Java, MySQL, Springboot, Thymeleaf
